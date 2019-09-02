@@ -9,7 +9,6 @@ Homework 1
 BitPay Inc.
 
     The company was incorporated in May, 2011. It is a payment service provider for Bitcoin and Bitcoin Cash.
-
     The founders of the comapany are Tony Gallippi and Stephen Pair. They started their headquarters in Orlando, FL. 
 
 * How did the idea for the company (or project) come about? 
@@ -102,7 +101,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What technologies would this additional product or service utilize? 
 
-    The technologies in addition to what BitPay is using to run its business to work or have a similar system to Zelle are New Relic and Varnish for the DevOps processes. New Relic is a SaaS application performance management for Ruby, PHP, Java, Python, .Net, and Node .js apps. Varnish is a high-performance HTTP accelerator. BitPay's payment platform and see that maybe it can be compatible with the system/program used by Zelle to add cryptocurrency for transactions.a
+    The technologies in addition to what BitPay is using to run its business to work or have a similar system to Zelle are New Relic and Varnish for the DevOps processes. New Relic is a SaaS application performance management for Ruby, PHP, Java, Python, .Net, and Node .js apps. Varnish is a high-performance HTTP accelerator. BitPay's payment platform and see that maybe it can be compatible with the system/program used by Zelle to add cryptocurrency for transactions.
 
 * Why are these technologies appropriate for your solution?
 
