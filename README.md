@@ -107,13 +107,13 @@ What solution does this company offer that their competitors do not or cannot of
 
     I feel that these technologies will helps with fixing any existing errors on BitPay's online and moblie platform. Varnish can help manage at a potentially higher level the large content that exists on BitPay's website and mobile apps.
 
-* Presentation Link
+## Presentation Link
 
     https://docs.google.com/presentation/d/1gqjehmKWZ2tV8CZH39UF0O66kff4oBAO2uKJBtnukDk/edit?usp=sharing
 
 
 
-* References
+## References
 
 1. "BitPay" https://en.wikipedia.org/wiki/BitPay
 2. "BitPay; About Us" https://bitpay.com/about/
